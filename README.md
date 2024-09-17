@@ -38,9 +38,7 @@ Installation
 bashCopypip install tensorflow numpy pandas matplotlib scikit-learn yfinance
 Usage
 
-Clone the repository:
-bashCopygit clone https://github.com/your-username/stock-price-prediction.git
-cd stock-price-prediction
+
 
 Run the Jupyter notebook or Python script:
 bashCopyjupyter notebook Stock_price_prediction.ipynb
